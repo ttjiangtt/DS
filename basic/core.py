@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import os
 from . import helpers
 
 def get_hmm():
